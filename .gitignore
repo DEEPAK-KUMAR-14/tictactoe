@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Build folder
+build/
+dist/
+
+# Dependency directories
+jspm_packages/
+
+# OSX
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# MongoDB data directory
+/data/db
+
+# dotenv environment variable file
+.env
+
+# VSCode configuration
+.vscode/
+
+# Compiled JSX
+*.jsx
+
+# Production build
+build/

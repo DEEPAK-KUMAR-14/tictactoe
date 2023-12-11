@@ -1,0 +1,2 @@
+"stream-chat": "^6.1.0",
+    "stream-chat-react": "^7.0.0",
